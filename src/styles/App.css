@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    color: var(--primary);
+}
+
+.heading{
+    background-color: aqua;
+}
+
+.purple{
+    color: purple;
+}
